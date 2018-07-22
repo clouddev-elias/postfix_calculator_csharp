@@ -1,0 +1,9 @@
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\bin\Release\CalculatorOving.exe.config
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\bin\Release\CalculatorOving.exe
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\bin\Release\CalculatorOving.pdb
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Release\CalculatorOving.Form1.resources
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Release\CalculatorOving.Properties.Resources.resources
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Release\CalculatorOving.csproj.GenerateResource.Cache
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Release\CalculatorOving.exe
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Release\CalculatorOving.pdb
+C:\Users\Elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Release\CalculatorOving.csprojResolveAssemblyReference.cache

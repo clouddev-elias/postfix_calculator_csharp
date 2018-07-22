@@ -1,0 +1,9 @@
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\bin\Debug\CalculatorOving.exe.config
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\bin\Debug\CalculatorOving.exe
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\bin\Debug\CalculatorOving.pdb
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Debug\CalculatorOving.csprojResolveAssemblyReference.cache
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Debug\CalculatorOving.Form1.resources
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Debug\CalculatorOving.Properties.Resources.resources
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Debug\CalculatorOving.csproj.GenerateResource.Cache
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Debug\CalculatorOving.exe
+c:\users\elias\documents\visual studio 2012\Projects\CalculatorOving\CalculatorOving\obj\Debug\CalculatorOving.pdb
